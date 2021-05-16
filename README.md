@@ -1,2 +1,2 @@
-# chapp154.github.io
-Git Pages
+# SNWeatherAPI
+Fetch weather data from API to ServiceNow
